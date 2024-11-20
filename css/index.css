@@ -1,0 +1,20 @@
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.hero   {
+    background-image: url(/assets/images/hero__image.png);
+}
+
+.intro{
+    background-image: url(/assets/images/intro__img.png);
+}
+
+.menu{
+    background-image: url(/assets/images/menu__img__bar.png);
+}
+
+.the-end{
+    background-image: url(/assets/images/the-end.png);
+}
